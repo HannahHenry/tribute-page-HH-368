@@ -1,0 +1,20 @@
+#image{
+  display:block;
+  width:500px;
+  max-width:50%;
+  margin:auto;
+}
+h1{text-align:center;
+  background-color:#335C81;
+  color:#D8E0E9;
+  border-radius:10px;
+}
+h2{text-align:center;}
+section{margin:auto;
+  background-color:#ABC5E2;
+  border-radius:10px;
+}
+#img-caption{margin:auto;
+  background-color:#ABC5E2;
+  border-radius:10px;
+text-align:center;}
